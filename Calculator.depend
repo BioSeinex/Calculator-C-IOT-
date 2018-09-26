@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537954238 source:c:\users\seinex\documents\arduino\light_sensor\calculator\calculator.cpp
+	<iostream>
+	<iomanip>
+
